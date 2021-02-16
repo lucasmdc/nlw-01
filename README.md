@@ -41,8 +41,8 @@ Abaixo segue a lista com as principais tecnologias dentre todas aquelas que fora
 * [Axios](https://github.com/axios/axios) - Centralizador dos endpoints da api em uma mesma `BASE_URL` para auxilar na criação das requisições no código;
 * [React](https://reactjs.org/) - Framework JavaScript responsável pela construção da SPA (Single Page Application) no __Web__;
 * [React Native](https://reactnative.dev/) - Framework JavaScript responsável pela construção do App para dispositivos móveis no __Mobile__;
-* [Expo](https://expo.io/) - Ferramenta que auxilia na construção do App para dispositivos móveis.
-* [TypeScript](https://https://www.typescriptlang.org/)
+* [Expo](https://expo.io/) - Ferramenta que auxilia na construção do App para dispositivos móveis;
+* [TypeScript](https://https://www.typescriptlang.org/) - Ferramenta para trabalhar com variáveis fortemente tipadas no JavaScrpit.
 
 ## Pré-requisitos
 
