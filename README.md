@@ -42,8 +42,7 @@ Abaixo segue a lista com as principais tecnologias dentre todas aquelas que fora
 * [React](https://reactjs.org/) - Framework JavaScript responsável pela construção da SPA (Single Page Application) no __Web__;
 * [React Native](https://reactnative.dev/) - Framework JavaScript responsável pela construção do App para dispositivos móveis no __Mobile__;
 * [Expo](https://expo.io/) - Ferramenta que auxilia na construção do App para dispositivos móveis.
-
-> Quando digo "principais tecnologias" não estou dizendo que as demais presentes no projeto (em especial as que são __dependenciais de desenvolvimento__ como [Jest](https://jestjs.io/) e [Supertest](https://github.com/visionmedia/supertest)) são desnecessárias. Só não dei ênfase a elas pois eu não as integrei de forma completa ao projeto e ainda preciso estudar mais a fundo elas.
+* [TypeScript](https://https://www.typescriptlang.org/)
 
 ## Pré-requisitos
 
